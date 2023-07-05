@@ -2,3 +2,7 @@ pandas
 streamlit
 openpyxl
 streamlit_authenticator
+pathlib
+bs4
+logging
+shutil
